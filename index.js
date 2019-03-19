@@ -10,3 +10,4 @@ function multiply(a,b) {
 var divide = (a,b) => a/b;
 var inc = n => ++n;
 var dec = n => --n;
+var makeInt = n => parseInt(n);
