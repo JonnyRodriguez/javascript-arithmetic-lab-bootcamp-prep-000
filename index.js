@@ -11,3 +11,4 @@ function divide(a,b) {
   return a/b;
 }
 var inc = n => ++n;
+var dec = n => --n;
